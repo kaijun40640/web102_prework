@@ -35,6 +35,7 @@ GIF created with Licecap
 ## Notes
 
 Describe any challenges encountered while building the app.
+While building the app, i encountered a few issues mainy with styling the application. 
 
 ## License
 
